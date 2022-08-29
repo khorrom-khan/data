@@ -1,4 +1,4 @@
-id,gender,age,before,after
+id,gender,age,weight_before,weight_after
 a,male,22,167,156
 b,male,45,158,160
 c,male,65,180,175
